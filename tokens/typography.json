@@ -1,0 +1,788 @@
+{
+  "@typography": {
+    "$collection_metadata": {
+      "name": "Typography",
+      "figmaId": "VariableCollectionId:12:328",
+      "modes": [
+        {
+          "key": "mode_1",
+          "name": "Mode 1"
+        }
+      ]
+    },
+    "$font_family": {
+      "heading": {
+        "$type": "fontFamily",
+        "$value": "Inter",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Font Family/heading",
+          "figmaId": "VariableID:12:335",
+          "modes": {
+            "mode_1": "Inter"
+          }
+        }
+      },
+      "heading-real-estate": {
+        "$type": "fontFamily",
+        "$value": "DM Sans",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Font Family/heading-real-estate",
+          "figmaId": "VariableID:6789:5437",
+          "modes": {
+            "mode_1": "DM Sans"
+          }
+        }
+      },
+      "body": {
+        "$type": "fontFamily",
+        "$value": "Inter",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Font Family/body",
+          "figmaId": "VariableID:12:336",
+          "modes": {
+            "mode_1": "Inter"
+          }
+        }
+      },
+      "body-real-estate": {
+        "$type": "fontFamily",
+        "$value": "Libre Franklin",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Font Family/body-real-estate",
+          "figmaId": "VariableID:6789:5438",
+          "modes": {
+            "mode_1": "Libre Franklin"
+          }
+        }
+      },
+      "code": {
+        "$type": "fontFamily",
+        "$value": "Geist Mono",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Font Family/code",
+          "figmaId": "VariableID:12:337",
+          "modes": {
+            "mode_1": "Geist Mono"
+          }
+        }
+      }
+    },
+    "$font_weight": {
+      "400": {
+        "$type": "fontWeight",
+        "$value": 400,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Font Weight/400",
+          "figmaId": "VariableID:12:354",
+          "modes": {
+            "mode_1": 400
+          }
+        }
+      },
+      "500": {
+        "$type": "fontWeight",
+        "$value": 500,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Font Weight/500",
+          "figmaId": "VariableID:12:352",
+          "modes": {
+            "mode_1": 500
+          }
+        }
+      },
+      "600": {
+        "$type": "fontWeight",
+        "$value": 600,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Font Weight/600",
+          "figmaId": "VariableID:12:351",
+          "modes": {
+            "mode_1": 600
+          }
+        }
+      },
+      "700": {
+        "$type": "fontWeight",
+        "$value": 700,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Font Weight/700",
+          "figmaId": "VariableID:12:350",
+          "modes": {
+            "mode_1": 700
+          }
+        }
+      },
+      "800": {
+        "$type": "fontWeight",
+        "$value": 800,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Font Weight/800",
+          "figmaId": "VariableID:12:353",
+          "modes": {
+            "mode_1": 800
+          }
+        }
+      }
+    },
+    "$font_size": {
+      "$headings": {
+        "h1-desktop": {
+          "$type": "number",
+          "$value": 64,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/headings/h1-desktop",
+            "figmaId": "VariableID:12:379",
+            "modes": {
+              "mode_1": 64
+            }
+          }
+        },
+        "h1-mobile": {
+          "$type": "number",
+          "$value": 56,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/headings/h1-mobile",
+            "figmaId": "VariableID:12:378",
+            "modes": {
+              "mode_1": 56
+            }
+          }
+        },
+        "h2-desktop": {
+          "$type": "number",
+          "$value": 56,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/headings/h2-desktop",
+            "figmaId": "VariableID:12:377",
+            "modes": {
+              "mode_1": 56
+            }
+          }
+        },
+        "h2-mobile": {
+          "$type": "number",
+          "$value": 48,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/headings/h2-mobile",
+            "figmaId": "VariableID:12:375",
+            "modes": {
+              "mode_1": 48
+            }
+          }
+        },
+        "h3-desktop": {
+          "$type": "number",
+          "$value": 48,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/headings/h3-desktop",
+            "figmaId": "VariableID:12:374",
+            "modes": {
+              "mode_1": 48
+            }
+          }
+        },
+        "h3-mobile": {
+          "$type": "number",
+          "$value": 40,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/headings/h3-mobile",
+            "figmaId": "VariableID:12:373",
+            "modes": {
+              "mode_1": 40
+            }
+          }
+        },
+        "h4": {
+          "$type": "number",
+          "$value": 32,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/headings/h4",
+            "figmaId": "VariableID:12:371",
+            "modes": {
+              "mode_1": 32
+            }
+          }
+        },
+        "h5": {
+          "$type": "number",
+          "$value": 24,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/headings/h5",
+            "figmaId": "VariableID:12:372",
+            "modes": {
+              "mode_1": 24
+            }
+          }
+        },
+        "h6": {
+          "$type": "number",
+          "$value": 16,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/headings/h6",
+            "figmaId": "VariableID:12:376",
+            "modes": {
+              "mode_1": 16
+            }
+          }
+        }
+      },
+      "$body": {
+        "xl": {
+          "$type": "number",
+          "$value": 21,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/body/xl",
+            "figmaId": "VariableID:6003:485",
+            "modes": {
+              "mode_1": 21
+            }
+          }
+        },
+        "lg": {
+          "$type": "number",
+          "$value": 19,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/body/lg",
+            "figmaId": "VariableID:15:87",
+            "modes": {
+              "mode_1": 19
+            }
+          }
+        },
+        "md": {
+          "$type": "number",
+          "$value": 16,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/body/md",
+            "figmaId": "VariableID:15:88",
+            "modes": {
+              "mode_1": 16
+            }
+          }
+        },
+        "sm": {
+          "$type": "number",
+          "$value": 14,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/body/sm",
+            "figmaId": "VariableID:15:89",
+            "modes": {
+              "mode_1": 14
+            }
+          }
+        },
+        "xs": {
+          "$type": "number",
+          "$value": 12,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/body/xs",
+            "figmaId": "VariableID:15:107",
+            "modes": {
+              "mode_1": 12
+            }
+          }
+        },
+        "$caps": {
+          "md-caps": {
+            "$type": "number",
+            "$value": 14,
+            "$description": "",
+            "$variable_metadata": {
+              "name": "Font Size/body/CAPS/md-caps",
+              "figmaId": "VariableID:6003:493",
+              "modes": {
+                "mode_1": 14
+              }
+            }
+          },
+          "sm-caps": {
+            "$type": "number",
+            "$value": 12,
+            "$description": "",
+            "$variable_metadata": {
+              "name": "Font Size/body/CAPS/sm-caps",
+              "figmaId": "VariableID:6003:492",
+              "modes": {
+                "mode_1": 12
+              }
+            }
+          },
+          "xs-caps": {
+            "$type": "number",
+            "$value": 10,
+            "$description": "",
+            "$variable_metadata": {
+              "name": "Font Size/body/CAPS/xs-caps",
+              "figmaId": "VariableID:6003:491",
+              "modes": {
+                "mode_1": 10
+              }
+            }
+          }
+        }
+      },
+      "$code": {
+        "lg": {
+          "$type": "number",
+          "$value": 16,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/code/lg",
+            "figmaId": "VariableID:15:124",
+            "modes": {
+              "mode_1": 16
+            }
+          }
+        },
+        "md": {
+          "$type": "number",
+          "$value": 14,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/code/md",
+            "figmaId": "VariableID:15:125",
+            "modes": {
+              "mode_1": 14
+            }
+          }
+        },
+        "sm": {
+          "$type": "number",
+          "$value": 12,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Font Size/code/sm",
+            "figmaId": "VariableID:15:126",
+            "modes": {
+              "mode_1": 12
+            }
+          }
+        }
+      }
+    },
+    "$line_height": {
+      "$headings": {
+        "h1-desktop": {
+          "$type": "number",
+          "$value": 72,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Headings/h1-desktop",
+            "figmaId": "VariableID:12:408",
+            "modes": {
+              "mode_1": 72
+            }
+          }
+        },
+        "h1-mobile": {
+          "$type": "number",
+          "$value": 64,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Headings/h1-mobile",
+            "figmaId": "VariableID:12:406",
+            "modes": {
+              "mode_1": 64
+            }
+          }
+        },
+        "h2-desktop": {
+          "$type": "number",
+          "$value": 64,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Headings/h2-desktop",
+            "figmaId": "VariableID:12:407",
+            "modes": {
+              "mode_1": 64
+            }
+          }
+        },
+        "h2-mobile": {
+          "$type": "number",
+          "$value": 56,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Headings/h2-mobile",
+            "figmaId": "VariableID:12:404",
+            "modes": {
+              "mode_1": 56
+            }
+          }
+        },
+        "h3-desktop": {
+          "$type": "number",
+          "$value": 56,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Headings/h3-desktop",
+            "figmaId": "VariableID:12:403",
+            "modes": {
+              "mode_1": 56
+            }
+          }
+        },
+        "h3-mobile": {
+          "$type": "number",
+          "$value": 40,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Headings/h3-mobile",
+            "figmaId": "VariableID:12:402",
+            "modes": {
+              "mode_1": 40
+            }
+          }
+        },
+        "h4": {
+          "$type": "number",
+          "$value": 40,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Headings/h4",
+            "figmaId": "VariableID:12:405",
+            "modes": {
+              "mode_1": 40
+            }
+          }
+        },
+        "h5": {
+          "$type": "number",
+          "$value": 32,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Headings/h5",
+            "figmaId": "VariableID:12:401",
+            "modes": {
+              "mode_1": 32
+            }
+          }
+        },
+        "h6": {
+          "$type": "number",
+          "$value": 24,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Headings/h6",
+            "figmaId": "VariableID:12:400",
+            "modes": {
+              "mode_1": 24
+            }
+          }
+        }
+      },
+      "$body": {
+        "xl": {
+          "$type": "number",
+          "$value": 32,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Body/xl",
+            "figmaId": "VariableID:6003:486",
+            "modes": {
+              "mode_1": 32
+            }
+          }
+        },
+        "lg": {
+          "$type": "number",
+          "$value": 28,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Body/lg",
+            "figmaId": "VariableID:15:96",
+            "modes": {
+              "mode_1": 28
+            }
+          }
+        },
+        "md": {
+          "$type": "number",
+          "$value": 24,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Body/md",
+            "figmaId": "VariableID:15:105",
+            "modes": {
+              "mode_1": 24
+            }
+          }
+        },
+        "sm": {
+          "$type": "number",
+          "$value": 20,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Body/sm",
+            "figmaId": "VariableID:15:106",
+            "modes": {
+              "mode_1": 20
+            }
+          }
+        },
+        "xs": {
+          "$type": "number",
+          "$value": 16,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Body/xs",
+            "figmaId": "VariableID:15:108",
+            "modes": {
+              "mode_1": 16
+            }
+          }
+        },
+        "$caps": {
+          "md-caps": {
+            "$type": "number",
+            "$value": 16,
+            "$description": "",
+            "$variable_metadata": {
+              "name": "Line Height/Body/CAPS/md-caps",
+              "figmaId": "VariableID:6003:496",
+              "modes": {
+                "mode_1": 16
+              }
+            }
+          },
+          "sm-caps": {
+            "$type": "number",
+            "$value": 14,
+            "$description": "",
+            "$variable_metadata": {
+              "name": "Line Height/Body/CAPS/sm-caps",
+              "figmaId": "VariableID:6003:495",
+              "modes": {
+                "mode_1": 14
+              }
+            }
+          },
+          "xs-caps": {
+            "$type": "number",
+            "$value": 12,
+            "$description": "",
+            "$variable_metadata": {
+              "name": "Line Height/Body/CAPS/xs-caps",
+              "figmaId": "VariableID:6003:494",
+              "modes": {
+                "mode_1": 12
+              }
+            }
+          }
+        }
+      },
+      "$code": {
+        "lg": {
+          "$type": "number",
+          "$value": 24,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Code/lg",
+            "figmaId": "VariableID:15:128",
+            "modes": {
+              "mode_1": 24
+            }
+          }
+        },
+        "md": {
+          "$type": "number",
+          "$value": 20,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Code/md",
+            "figmaId": "VariableID:15:129",
+            "modes": {
+              "mode_1": 20
+            }
+          }
+        },
+        "sm": {
+          "$type": "number",
+          "$value": 16,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Line Height/Code/sm",
+            "figmaId": "VariableID:15:130",
+            "modes": {
+              "mode_1": 16
+            }
+          }
+        }
+      }
+    },
+    "$letter_spacing": {
+      "$positive": {
+        "25": {
+          "$type": "number",
+          "$value": 0.25,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Positive/25",
+            "figmaId": "VariableID:14:2",
+            "modes": {
+              "mode_1": 0.25
+            }
+          }
+        },
+        "50": {
+          "$type": "number",
+          "$value": 0.5,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Positive/50",
+            "figmaId": "VariableID:14:11",
+            "modes": {
+              "mode_1": 0.5
+            }
+          }
+        },
+        "75": {
+          "$type": "number",
+          "$value": 0.75,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Positive/75",
+            "figmaId": "VariableID:14:12",
+            "modes": {
+              "mode_1": 0.75
+            }
+          }
+        },
+        "100": {
+          "$type": "number",
+          "$value": 1,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Positive/100",
+            "figmaId": "VariableID:14:13",
+            "modes": {
+              "mode_1": 1
+            }
+          }
+        },
+        "150": {
+          "$type": "number",
+          "$value": 1.5,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Positive/150",
+            "figmaId": "VariableID:14:14",
+            "modes": {
+              "mode_1": 1.5
+            }
+          }
+        },
+        "200": {
+          "$type": "number",
+          "$value": 2,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Positive/200",
+            "figmaId": "VariableID:14:15",
+            "modes": {
+              "mode_1": 2
+            }
+          }
+        }
+      },
+      "$negative": {
+        "n-25": {
+          "$type": "number",
+          "$value": -0.25,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Negative/n-25",
+            "figmaId": "VariableID:14:16",
+            "modes": {
+              "mode_1": -0.25
+            }
+          }
+        },
+        "n-50": {
+          "$type": "number",
+          "$value": -0.5,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Negative/n-50",
+            "figmaId": "VariableID:14:17",
+            "modes": {
+              "mode_1": -0.5
+            }
+          }
+        },
+        "n-75": {
+          "$type": "number",
+          "$value": -0.75,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Negative/n-75",
+            "figmaId": "VariableID:14:18",
+            "modes": {
+              "mode_1": -0.75
+            }
+          }
+        },
+        "n-100": {
+          "$type": "number",
+          "$value": -1,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Negative/n-100",
+            "figmaId": "VariableID:14:19",
+            "modes": {
+              "mode_1": -1
+            }
+          }
+        },
+        "n-150": {
+          "$type": "number",
+          "$value": -1.5,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Negative/n-150",
+            "figmaId": "VariableID:14:20",
+            "modes": {
+              "mode_1": -1.5
+            }
+          }
+        },
+        "n-200": {
+          "$type": "number",
+          "$value": -2,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Letter Spacing/Negative/n-200",
+            "figmaId": "VariableID:14:21",
+            "modes": {
+              "mode_1": -2
+            }
+          }
+        }
+      }
+    }
+  }
+}
