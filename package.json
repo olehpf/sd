@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "build": "node build-tokens.js"
+  },
+  "dependencies": {
+    "style-dictionary": "^5.0.1"
+  } 
+}
