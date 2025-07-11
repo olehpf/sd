@@ -1,0 +1,86 @@
+{
+  "@text": {
+    "$collection_metadata": {
+      "name": "Text",
+      "figmaId": "VariableCollectionId:6003:512",
+      "modes": [
+        {
+          "key": "mode_1",
+          "name": "Mode 1"
+        }
+      ]
+    },
+    "accent": {
+      "$type": "color",
+      "$value": "{@colors.$indigo.600}",
+      "$description": "",
+      "$variable_metadata": {
+        "name": "accent",
+        "figmaId": "VariableID:6362:41470",
+        "modes": {
+          "mode_1": "{@colors.$indigo.600}"
+        }
+      }
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{@colors.$slate.950}",
+      "$description": "",
+      "$variable_metadata": {
+        "name": "primary",
+        "figmaId": "VariableID:6003:513",
+        "modes": {
+          "mode_1": "{@colors.$slate.950}"
+        }
+      }
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{@colors.$slate.800}",
+      "$description": "",
+      "$variable_metadata": {
+        "name": "secondary",
+        "figmaId": "VariableID:6003:514",
+        "modes": {
+          "mode_1": "{@colors.$slate.800}"
+        }
+      }
+    },
+    "tertiary": {
+      "$type": "color",
+      "$value": "{@colors.$slate.600}",
+      "$description": "",
+      "$variable_metadata": {
+        "name": "tertiary",
+        "figmaId": "VariableID:6003:515",
+        "modes": {
+          "mode_1": "{@colors.$slate.600}"
+        }
+      }
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{@colors.$slate.400}",
+      "$description": "",
+      "$variable_metadata": {
+        "name": "muted",
+        "figmaId": "VariableID:6003:516",
+        "modes": {
+          "mode_1": "{@colors.$slate.400}"
+        }
+      }
+    },
+    "inverted": {
+      "$type": "color",
+      "$value": "{@colors.$base.white}",
+      "$description": "",
+      "$variable_metadata": {
+        "name": "inverted",
+        "figmaId": "VariableID:6003:517",
+        "modes": {
+          "mode_1": "{@colors.$base.white}"
+        }
+      }
+    }
+  }
+}

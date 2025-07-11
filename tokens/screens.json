@@ -1,0 +1,167 @@
+{
+  "@screens": {
+    "$collection_metadata": {
+      "name": "Screens",
+      "figmaId": "VariableCollectionId:30:2",
+      "modes": [
+        {
+          "key": "small",
+          "name": "Small"
+        },
+        {
+          "key": "medium",
+          "name": "Medium"
+        },
+        {
+          "key": "large",
+          "name": "Large"
+        },
+        {
+          "key": "xl",
+          "name": "XL"
+        }
+      ]
+    },
+    "$breakpoints": {
+      "min-width": {
+        "$type": "number",
+        "$value": 320,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Breakpoints/min-width",
+          "figmaId": "VariableID:30:18",
+          "modes": {
+            "small": 320,
+            "medium": 600,
+            "large": 960,
+            "xl": 1320
+          }
+        }
+      },
+      "max-width": {
+        "$type": "number",
+        "$value": 599,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Breakpoints/max-width",
+          "figmaId": "VariableID:30:19",
+          "modes": {
+            "small": 599,
+            "medium": 959,
+            "large": 1319,
+            "xl": 1920
+          }
+        }
+      },
+      "min-height": {
+        "$type": "number",
+        "$value": 640,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Breakpoints/min-height",
+          "figmaId": "VariableID:30:20",
+          "modes": {
+            "small": 640,
+            "medium": 768,
+            "large": 932,
+            "xl": 1080
+          }
+        }
+      }
+    },
+    "$page_grid": {
+      "gap": {
+        "$type": "number",
+        "$value": "{@spacing.$gap.300}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Page Grid/gap",
+          "figmaId": "VariableID:30:3",
+          "modes": {
+            "small": "{@spacing.$gap.300}",
+            "medium": "{@spacing.$gap.300}",
+            "large": "{@spacing.$gap.300}",
+            "xl": "{@spacing.$gap.300}"
+          }
+        }
+      },
+      "column": {
+        "$type": "number",
+        "$value": 4,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Page Grid/column",
+          "figmaId": "VariableID:30:4",
+          "modes": {
+            "small": 4,
+            "medium": 8,
+            "large": 12,
+            "xl": 16
+          }
+        }
+      },
+      "margin": {
+        "$type": "number",
+        "$value": "{@spacing.$margin.200}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Page Grid/margin",
+          "figmaId": "VariableID:30:5",
+          "modes": {
+            "small": "{@spacing.$margin.200}",
+            "medium": "{@spacing.$margin.300}",
+            "large": "{@spacing.$margin.600}",
+            "xl": "{@spacing.$margin.800}"
+          }
+        }
+      }
+    },
+    "$footer_grid": {
+      "gap": {
+        "$type": "number",
+        "$value": "{@spacing.$gap.300}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Footer Grid/gap",
+          "figmaId": "VariableID:6854:49504",
+          "modes": {
+            "small": "{@spacing.$gap.300}",
+            "medium": "{@spacing.$gap.300}",
+            "large": "{@spacing.$gap.300}",
+            "xl": "{@spacing.$gap.300}"
+          }
+        }
+      },
+      "column": {
+        "$type": "number",
+        "$value": 4,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Footer Grid/column",
+          "figmaId": "VariableID:6854:49505",
+          "modes": {
+            "small": 4,
+            "medium": 8,
+            "large": 12,
+            "xl": 12
+          }
+        }
+      },
+      "margin": {
+        "$type": "number",
+        "$value": "{@spacing.$margin.400}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Footer Grid/margin",
+          "figmaId": "VariableID:6854:49506",
+          "modes": {
+            "small": "{@spacing.$margin.400}",
+            "medium": "{@spacing.$margin.600}",
+            "large": "{@spacing.$margin.800}",
+            "xl": "{@spacing.$margin.850}"
+          }
+        }
+      }
+    }
+  }
+}

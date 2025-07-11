@@ -1,0 +1,910 @@
+{
+  "@spacing": {
+    "$collection_metadata": {
+      "name": "Spacing",
+      "figmaId": "VariableCollectionId:23:146",
+      "modes": [
+        {
+          "key": "mode_1",
+          "name": "Mode 1"
+        }
+      ]
+    },
+    "$space": {
+      "0": {
+        "$type": "number",
+        "$value": 0,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/0",
+          "figmaId": "VariableID:23:147",
+          "modes": {
+            "mode_1": 0
+          }
+        }
+      },
+      "2": {
+        "$type": "number",
+        "$value": 2,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/2",
+          "figmaId": "VariableID:23:148",
+          "modes": {
+            "mode_1": 2
+          }
+        }
+      },
+      "4": {
+        "$type": "number",
+        "$value": 4,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/4",
+          "figmaId": "VariableID:23:149",
+          "modes": {
+            "mode_1": 4
+          }
+        }
+      },
+      "6": {
+        "$type": "number",
+        "$value": 6,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/6",
+          "figmaId": "VariableID:23:250",
+          "modes": {
+            "mode_1": 6
+          }
+        }
+      },
+      "8": {
+        "$type": "number",
+        "$value": 8,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/8",
+          "figmaId": "VariableID:23:150",
+          "modes": {
+            "mode_1": 8
+          }
+        }
+      },
+      "10": {
+        "$type": "number",
+        "$value": 10,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/10",
+          "figmaId": "VariableID:23:249",
+          "modes": {
+            "mode_1": 10
+          }
+        }
+      },
+      "12": {
+        "$type": "number",
+        "$value": 12,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/12",
+          "figmaId": "VariableID:23:151",
+          "modes": {
+            "mode_1": 12
+          }
+        }
+      },
+      "16": {
+        "$type": "number",
+        "$value": 16,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/16",
+          "figmaId": "VariableID:23:152",
+          "modes": {
+            "mode_1": 16
+          }
+        }
+      },
+      "20": {
+        "$type": "number",
+        "$value": 20,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/20",
+          "figmaId": "VariableID:23:253",
+          "modes": {
+            "mode_1": 20
+          }
+        }
+      },
+      "24": {
+        "$type": "number",
+        "$value": 24,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/24",
+          "figmaId": "VariableID:23:156",
+          "modes": {
+            "mode_1": 24
+          }
+        }
+      },
+      "32": {
+        "$type": "number",
+        "$value": 32,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/32",
+          "figmaId": "VariableID:23:157",
+          "modes": {
+            "mode_1": 32
+          }
+        }
+      },
+      "40": {
+        "$type": "number",
+        "$value": 40,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/40",
+          "figmaId": "VariableID:6008:1488",
+          "modes": {
+            "mode_1": 40
+          }
+        }
+      },
+      "48": {
+        "$type": "number",
+        "$value": 48,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/48",
+          "figmaId": "VariableID:23:158",
+          "modes": {
+            "mode_1": 48
+          }
+        }
+      },
+      "64": {
+        "$type": "number",
+        "$value": 64,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/64",
+          "figmaId": "VariableID:23:159",
+          "modes": {
+            "mode_1": 64
+          }
+        }
+      },
+      "68": {
+        "$type": "number",
+        "$value": 68,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/68",
+          "figmaId": "VariableID:6854:49195",
+          "modes": {
+            "mode_1": 68
+          }
+        }
+      },
+      "72": {
+        "$type": "number",
+        "$value": 72,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/72",
+          "figmaId": "VariableID:6854:49190",
+          "modes": {
+            "mode_1": 72
+          }
+        }
+      },
+      "76": {
+        "$type": "number",
+        "$value": 76,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/76",
+          "figmaId": "VariableID:6854:49192",
+          "modes": {
+            "mode_1": 76
+          }
+        }
+      },
+      "80": {
+        "$type": "number",
+        "$value": 80,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/80",
+          "figmaId": "VariableID:23:160",
+          "modes": {
+            "mode_1": 80
+          }
+        }
+      },
+      "96": {
+        "$type": "number",
+        "$value": 96,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/96",
+          "figmaId": "VariableID:23:161",
+          "modes": {
+            "mode_1": 96
+          }
+        }
+      },
+      "128": {
+        "$type": "number",
+        "$value": 128,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/128",
+          "figmaId": "VariableID:6910:2158",
+          "modes": {
+            "mode_1": 128
+          }
+        }
+      },
+      "160": {
+        "$type": "number",
+        "$value": 160,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/160",
+          "figmaId": "VariableID:6910:2159",
+          "modes": {
+            "mode_1": 160
+          }
+        }
+      },
+      "240": {
+        "$type": "number",
+        "$value": 240,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Space/240",
+          "figmaId": "VariableID:6910:2160",
+          "modes": {
+            "mode_1": 240
+          }
+        }
+      }
+    },
+    "$gap": {
+      "25": {
+        "$type": "number",
+        "$value": "{@spacing.$space.2}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/25",
+          "figmaId": "VariableID:23:188",
+          "modes": {
+            "mode_1": "{@spacing.$space.2}"
+          }
+        }
+      },
+      "50": {
+        "$type": "number",
+        "$value": "{@spacing.$space.4}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/50",
+          "figmaId": "VariableID:23:189",
+          "modes": {
+            "mode_1": "{@spacing.$space.4}"
+          }
+        }
+      },
+      "75": {
+        "$type": "number",
+        "$value": "{@spacing.$space.6}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/75",
+          "figmaId": "VariableID:23:252",
+          "modes": {
+            "mode_1": "{@spacing.$space.6}"
+          }
+        }
+      },
+      "100": {
+        "$type": "number",
+        "$value": "{@spacing.$space.8}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/100",
+          "figmaId": "VariableID:23:191",
+          "modes": {
+            "mode_1": "{@spacing.$space.8}"
+          }
+        }
+      },
+      "125": {
+        "$type": "number",
+        "$value": "{@spacing.$space.10}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/125",
+          "figmaId": "VariableID:23:251",
+          "modes": {
+            "mode_1": "{@spacing.$space.10}"
+          }
+        }
+      },
+      "150": {
+        "$type": "number",
+        "$value": "{@spacing.$space.12}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/150",
+          "figmaId": "VariableID:23:193",
+          "modes": {
+            "mode_1": "{@spacing.$space.12}"
+          }
+        }
+      },
+      "200": {
+        "$type": "number",
+        "$value": "{@spacing.$space.16}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/200",
+          "figmaId": "VariableID:23:194",
+          "modes": {
+            "mode_1": "{@spacing.$space.16}"
+          }
+        }
+      },
+      "250": {
+        "$type": "number",
+        "$value": "{@spacing.$space.20}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/250",
+          "figmaId": "VariableID:23:196",
+          "modes": {
+            "mode_1": "{@spacing.$space.20}"
+          }
+        }
+      },
+      "300": {
+        "$type": "number",
+        "$value": "{@spacing.$space.24}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/300",
+          "figmaId": "VariableID:23:254",
+          "modes": {
+            "mode_1": "{@spacing.$space.24}"
+          }
+        }
+      },
+      "400": {
+        "$type": "number",
+        "$value": "{@spacing.$space.32}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/400",
+          "figmaId": "VariableID:23:197",
+          "modes": {
+            "mode_1": "{@spacing.$space.32}"
+          }
+        }
+      },
+      "500": {
+        "$type": "number",
+        "$value": "{@spacing.$space.40}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/500",
+          "figmaId": "VariableID:6008:1489",
+          "modes": {
+            "mode_1": "{@spacing.$space.40}"
+          }
+        }
+      },
+      "600": {
+        "$type": "number",
+        "$value": "{@spacing.$space.48}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/600",
+          "figmaId": "VariableID:23:199",
+          "modes": {
+            "mode_1": "{@spacing.$space.48}"
+          }
+        }
+      },
+      "800": {
+        "$type": "number",
+        "$value": "{@spacing.$space.64}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/800",
+          "figmaId": "VariableID:23:200",
+          "modes": {
+            "mode_1": "{@spacing.$space.64}"
+          }
+        }
+      },
+      "1000": {
+        "$type": "number",
+        "$value": "{@spacing.$space.80}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/1000",
+          "figmaId": "VariableID:23:201",
+          "modes": {
+            "mode_1": "{@spacing.$space.80}"
+          }
+        }
+      },
+      "1200": {
+        "$type": "number",
+        "$value": "{@spacing.$space.96}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/1200",
+          "figmaId": "VariableID:23:255",
+          "modes": {
+            "mode_1": "{@spacing.$space.96}"
+          }
+        }
+      },
+      "none": {
+        "$type": "number",
+        "$value": "{@spacing.$space.0}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Gap/none",
+          "figmaId": "VariableID:23:187",
+          "modes": {
+            "mode_1": "{@spacing.$space.0}"
+          }
+        }
+      }
+    },
+    "$padding": {
+      "25": {
+        "$type": "number",
+        "$value": "{@spacing.$space.2}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/25",
+          "figmaId": "VariableID:23:287",
+          "modes": {
+            "mode_1": "{@spacing.$space.2}"
+          }
+        }
+      },
+      "50": {
+        "$type": "number",
+        "$value": "{@spacing.$space.4}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/50",
+          "figmaId": "VariableID:23:288",
+          "modes": {
+            "mode_1": "{@spacing.$space.4}"
+          }
+        }
+      },
+      "75": {
+        "$type": "number",
+        "$value": "{@spacing.$space.6}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/75",
+          "figmaId": "VariableID:23:289",
+          "modes": {
+            "mode_1": "{@spacing.$space.6}"
+          }
+        }
+      },
+      "100": {
+        "$type": "number",
+        "$value": "{@spacing.$space.8}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/100",
+          "figmaId": "VariableID:23:290",
+          "modes": {
+            "mode_1": "{@spacing.$space.8}"
+          }
+        }
+      },
+      "125": {
+        "$type": "number",
+        "$value": "{@spacing.$space.10}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/125",
+          "figmaId": "VariableID:23:291",
+          "modes": {
+            "mode_1": "{@spacing.$space.10}"
+          }
+        }
+      },
+      "150": {
+        "$type": "number",
+        "$value": "{@spacing.$space.12}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/150",
+          "figmaId": "VariableID:23:292",
+          "modes": {
+            "mode_1": "{@spacing.$space.12}"
+          }
+        }
+      },
+      "200": {
+        "$type": "number",
+        "$value": "{@spacing.$space.16}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/200",
+          "figmaId": "VariableID:23:293",
+          "modes": {
+            "mode_1": "{@spacing.$space.16}"
+          }
+        }
+      },
+      "250": {
+        "$type": "number",
+        "$value": "{@spacing.$space.20}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/250",
+          "figmaId": "VariableID:23:294",
+          "modes": {
+            "mode_1": "{@spacing.$space.20}"
+          }
+        }
+      },
+      "300": {
+        "$type": "number",
+        "$value": "{@spacing.$space.24}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/300",
+          "figmaId": "VariableID:23:295",
+          "modes": {
+            "mode_1": "{@spacing.$space.24}"
+          }
+        }
+      },
+      "400": {
+        "$type": "number",
+        "$value": "{@spacing.$space.32}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/400",
+          "figmaId": "VariableID:23:296",
+          "modes": {
+            "mode_1": "{@spacing.$space.32}"
+          }
+        }
+      },
+      "500": {
+        "$type": "number",
+        "$value": "{@spacing.$space.40}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/500",
+          "figmaId": "VariableID:6008:1490",
+          "modes": {
+            "mode_1": "{@spacing.$space.40}"
+          }
+        }
+      },
+      "600": {
+        "$type": "number",
+        "$value": "{@spacing.$space.48}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/600",
+          "figmaId": "VariableID:23:297",
+          "modes": {
+            "mode_1": "{@spacing.$space.48}"
+          }
+        }
+      },
+      "800": {
+        "$type": "number",
+        "$value": "{@spacing.$space.64}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/800",
+          "figmaId": "VariableID:23:298",
+          "modes": {
+            "mode_1": "{@spacing.$space.64}"
+          }
+        }
+      },
+      "1000": {
+        "$type": "number",
+        "$value": "{@spacing.$space.80}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/1000",
+          "figmaId": "VariableID:23:299",
+          "modes": {
+            "mode_1": "{@spacing.$space.80}"
+          }
+        }
+      },
+      "1200": {
+        "$type": "number",
+        "$value": "{@spacing.$space.96}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/1200",
+          "figmaId": "VariableID:23:300",
+          "modes": {
+            "mode_1": "{@spacing.$space.96}"
+          }
+        }
+      },
+      "1600": {
+        "$type": "number",
+        "$value": "{@spacing.$space.128}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/1600",
+          "figmaId": "VariableID:6910:2161",
+          "modes": {
+            "mode_1": "{@spacing.$space.128}"
+          }
+        }
+      },
+      "2000": {
+        "$type": "number",
+        "$value": "{@spacing.$space.160}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/2000",
+          "figmaId": "VariableID:6910:2162",
+          "modes": {
+            "mode_1": "{@spacing.$space.160}"
+          }
+        }
+      },
+      "3000": {
+        "$type": "number",
+        "$value": "{@spacing.$space.240}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/3000",
+          "figmaId": "VariableID:6910:2163",
+          "modes": {
+            "mode_1": "{@spacing.$space.240}"
+          }
+        }
+      },
+      "none": {
+        "$type": "number",
+        "$value": "{@spacing.$space.0}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Padding/none",
+          "figmaId": "VariableID:23:286",
+          "modes": {
+            "mode_1": "{@spacing.$space.0}"
+          }
+        }
+      }
+    },
+    "$margin": {
+      "25": {
+        "$type": "number",
+        "$value": "{@spacing.$space.2}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/25",
+          "figmaId": "VariableID:23:302",
+          "modes": {
+            "mode_1": "{@spacing.$space.2}"
+          }
+        }
+      },
+      "50": {
+        "$type": "number",
+        "$value": "{@spacing.$space.4}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/50",
+          "figmaId": "VariableID:23:303",
+          "modes": {
+            "mode_1": "{@spacing.$space.4}"
+          }
+        }
+      },
+      "75": {
+        "$type": "number",
+        "$value": "{@spacing.$space.6}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/75",
+          "figmaId": "VariableID:23:304",
+          "modes": {
+            "mode_1": "{@spacing.$space.6}"
+          }
+        }
+      },
+      "100": {
+        "$type": "number",
+        "$value": "{@spacing.$space.8}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/100",
+          "figmaId": "VariableID:23:305",
+          "modes": {
+            "mode_1": "{@spacing.$space.8}"
+          }
+        }
+      },
+      "125": {
+        "$type": "number",
+        "$value": "{@spacing.$space.10}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/125",
+          "figmaId": "VariableID:23:306",
+          "modes": {
+            "mode_1": "{@spacing.$space.10}"
+          }
+        }
+      },
+      "150": {
+        "$type": "number",
+        "$value": "{@spacing.$space.12}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/150",
+          "figmaId": "VariableID:23:307",
+          "modes": {
+            "mode_1": "{@spacing.$space.12}"
+          }
+        }
+      },
+      "200": {
+        "$type": "number",
+        "$value": "{@spacing.$space.16}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/200",
+          "figmaId": "VariableID:23:308",
+          "modes": {
+            "mode_1": "{@spacing.$space.16}"
+          }
+        }
+      },
+      "250": {
+        "$type": "number",
+        "$value": "{@spacing.$space.20}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/250",
+          "figmaId": "VariableID:23:309",
+          "modes": {
+            "mode_1": "{@spacing.$space.20}"
+          }
+        }
+      },
+      "300": {
+        "$type": "number",
+        "$value": "{@spacing.$space.24}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/300",
+          "figmaId": "VariableID:23:310",
+          "modes": {
+            "mode_1": "{@spacing.$space.24}"
+          }
+        }
+      },
+      "400": {
+        "$type": "number",
+        "$value": "{@spacing.$space.32}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/400",
+          "figmaId": "VariableID:23:311",
+          "modes": {
+            "mode_1": "{@spacing.$space.32}"
+          }
+        }
+      },
+      "500": {
+        "$type": "number",
+        "$value": "{@spacing.$space.40}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/500",
+          "figmaId": "VariableID:6008:1491",
+          "modes": {
+            "mode_1": "{@spacing.$space.40}"
+          }
+        }
+      },
+      "600": {
+        "$type": "number",
+        "$value": "{@spacing.$space.48}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/600",
+          "figmaId": "VariableID:23:312",
+          "modes": {
+            "mode_1": "{@spacing.$space.48}"
+          }
+        }
+      },
+      "800": {
+        "$type": "number",
+        "$value": "{@spacing.$space.64}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/800",
+          "figmaId": "VariableID:23:313",
+          "modes": {
+            "mode_1": "{@spacing.$space.64}"
+          }
+        }
+      },
+      "850": {
+        "$type": "number",
+        "$value": "{@spacing.$space.68}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/850",
+          "figmaId": "VariableID:6854:49194",
+          "modes": {
+            "mode_1": "{@spacing.$space.68}"
+          }
+        }
+      },
+      "1000": {
+        "$type": "number",
+        "$value": "{@spacing.$space.80}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/1000",
+          "figmaId": "VariableID:23:314",
+          "modes": {
+            "mode_1": "{@spacing.$space.80}"
+          }
+        }
+      },
+      "1200": {
+        "$type": "number",
+        "$value": "{@spacing.$space.96}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/1200",
+          "figmaId": "VariableID:23:315",
+          "modes": {
+            "mode_1": "{@spacing.$space.96}"
+          }
+        }
+      },
+      "none": {
+        "$type": "number",
+        "$value": "{@spacing.$space.0}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Margin/none",
+          "figmaId": "VariableID:23:301",
+          "modes": {
+            "mode_1": "{@spacing.$space.0}"
+          }
+        }
+      }
+    }
+  }
+}

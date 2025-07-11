@@ -1,0 +1,228 @@
+{
+  "@icon": {
+    "$collection_metadata": {
+      "name": "Icon",
+      "figmaId": "VariableCollectionId:34:1522",
+      "modes": [
+        {
+          "key": "value",
+          "name": "Value"
+        }
+      ]
+    },
+    "$size": {
+      "$primitive": {
+        "size-48": {
+          "$type": "number",
+          "$value": 48,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Primitive/size-48",
+            "figmaId": "VariableID:34:1523",
+            "modes": {
+              "value": 48
+            }
+          }
+        },
+        "size-32": {
+          "$type": "number",
+          "$value": 32,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Primitive/size-32",
+            "figmaId": "VariableID:68:1622",
+            "modes": {
+              "value": 32
+            }
+          }
+        },
+        "size-24": {
+          "$type": "number",
+          "$value": 24,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Primitive/size-24",
+            "figmaId": "VariableID:68:1621",
+            "modes": {
+              "value": 24
+            }
+          }
+        },
+        "size-20": {
+          "$type": "number",
+          "$value": 20,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Primitive/size-20",
+            "figmaId": "VariableID:34:1524",
+            "modes": {
+              "value": 20
+            }
+          }
+        },
+        "size-16": {
+          "$type": "number",
+          "$value": 16,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Primitive/size-16",
+            "figmaId": "VariableID:68:1619",
+            "modes": {
+              "value": 16
+            }
+          }
+        },
+        "size-12": {
+          "$type": "number",
+          "$value": 12,
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Primitive/size-12",
+            "figmaId": "VariableID:68:1620",
+            "modes": {
+              "value": 12
+            }
+          }
+        }
+      },
+      "$semantic": {
+        "2xl": {
+          "$type": "number",
+          "$value": "{@icon.$size.$primitive.size-48}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Semantic/2xl",
+            "figmaId": "VariableID:68:1623",
+            "modes": {
+              "value": "{@icon.$size.$primitive.size-48}"
+            }
+          }
+        },
+        "xl": {
+          "$type": "number",
+          "$value": "{@icon.$size.$primitive.size-32}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Semantic/xl",
+            "figmaId": "VariableID:6794:39476",
+            "modes": {
+              "value": "{@icon.$size.$primitive.size-32}"
+            }
+          }
+        },
+        "lg": {
+          "$type": "number",
+          "$value": "{@icon.$size.$primitive.size-24}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Semantic/lg",
+            "figmaId": "VariableID:68:1627",
+            "modes": {
+              "value": "{@icon.$size.$primitive.size-24}"
+            }
+          }
+        },
+        "md": {
+          "$type": "number",
+          "$value": "{@icon.$size.$primitive.size-20}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Semantic/md",
+            "figmaId": "VariableID:68:1626",
+            "modes": {
+              "value": "{@icon.$size.$primitive.size-20}"
+            }
+          }
+        },
+        "sm": {
+          "$type": "number",
+          "$value": "{@icon.$size.$primitive.size-16}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Semantic/sm",
+            "figmaId": "VariableID:68:1625",
+            "modes": {
+              "value": "{@icon.$size.$primitive.size-16}"
+            }
+          }
+        },
+        "xs": {
+          "$type": "number",
+          "$value": "{@icon.$size.$primitive.size-12}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Size/Semantic/xs",
+            "figmaId": "VariableID:68:1624",
+            "modes": {
+              "value": "{@icon.$size.$primitive.size-12}"
+            }
+          }
+        }
+      }
+    },
+    "$color": {
+      "$zink": {
+        "accent": {
+          "$type": "color",
+          "$value": "{@colors.$indigo.600}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Color/Zink/accent",
+            "figmaId": "VariableID:34:1532",
+            "modes": {
+              "value": "{@colors.$indigo.600}"
+            }
+          }
+        },
+        "primary": {
+          "$type": "color",
+          "$value": "{@colors.$zink.700}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Color/Zink/primary",
+            "figmaId": "VariableID:34:1533",
+            "modes": {
+              "value": "{@colors.$zink.700}"
+            }
+          }
+        },
+        "secondary": {
+          "$type": "color",
+          "$value": "{@colors.$zink.600}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Color/Zink/secondary",
+            "figmaId": "VariableID:6220:8034",
+            "modes": {
+              "value": "{@colors.$zink.600}"
+            }
+          }
+        },
+        "tertiary": {
+          "$type": "color",
+          "$value": "{@colors.$zink.500}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Color/Zink/tertiary",
+            "figmaId": "VariableID:6220:8039",
+            "modes": {
+              "value": "{@colors.$zink.500}"
+            }
+          }
+        },
+        "muted": {
+          "$type": "color",
+          "$value": "{@colors.$zink.400}",
+          "$description": "",
+          "$variable_metadata": {
+            "name": "Color/Zink/muted",
+            "figmaId": "VariableID:34:1534",
+            "modes": {
+              "value": "{@colors.$zink.400}"
+            }
+          }
+        }
+      }
+    }
+  }
+}

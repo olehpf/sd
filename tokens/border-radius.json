@@ -1,0 +1,330 @@
+{
+  "@border_radius": {
+    "$collection_metadata": {
+      "name": "Border Radius",
+      "figmaId": "VariableCollectionId:23:127",
+      "modes": [
+        {
+          "key": "mode_1",
+          "name": "Mode 1"
+        }
+      ]
+    },
+    "$_radii": {
+      "0": {
+        "$type": "number",
+        "$value": 0,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/0",
+          "figmaId": "VariableID:23:128",
+          "modes": {
+            "mode_1": 0
+          }
+        }
+      },
+      "2": {
+        "$type": "number",
+        "$value": 2,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/2",
+          "figmaId": "VariableID:23:207",
+          "modes": {
+            "mode_1": 2
+          }
+        }
+      },
+      "4": {
+        "$type": "number",
+        "$value": 4,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/4",
+          "figmaId": "VariableID:23:129",
+          "modes": {
+            "mode_1": 4
+          }
+        }
+      },
+      "6": {
+        "$type": "number",
+        "$value": 6,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/6",
+          "figmaId": "VariableID:63:379",
+          "modes": {
+            "mode_1": 6
+          }
+        }
+      },
+      "8": {
+        "$type": "number",
+        "$value": 8,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/8",
+          "figmaId": "VariableID:23:130",
+          "modes": {
+            "mode_1": 8
+          }
+        }
+      },
+      "12": {
+        "$type": "number",
+        "$value": 12,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/12",
+          "figmaId": "VariableID:23:131",
+          "modes": {
+            "mode_1": 12
+          }
+        }
+      },
+      "16": {
+        "$type": "number",
+        "$value": 16,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/16",
+          "figmaId": "VariableID:23:132",
+          "modes": {
+            "mode_1": 16
+          }
+        }
+      },
+      "20": {
+        "$type": "number",
+        "$value": 20,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/20",
+          "figmaId": "VariableID:6034:3610",
+          "modes": {
+            "mode_1": 20
+          }
+        }
+      },
+      "24": {
+        "$type": "number",
+        "$value": 24,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/24",
+          "figmaId": "VariableID:23:133",
+          "modes": {
+            "mode_1": 24
+          }
+        }
+      },
+      "32": {
+        "$type": "number",
+        "$value": 32,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/32",
+          "figmaId": "VariableID:6003:1048",
+          "modes": {
+            "mode_1": 32
+          }
+        }
+      },
+      "48": {
+        "$type": "number",
+        "$value": 48,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/48",
+          "figmaId": "VariableID:23:134",
+          "modes": {
+            "mode_1": 48
+          }
+        }
+      },
+      "100": {
+        "$type": "number",
+        "$value": 100,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/100",
+          "figmaId": "VariableID:23:135",
+          "modes": {
+            "mode_1": 100
+          }
+        }
+      },
+      "9999": {
+        "$type": "number",
+        "$value": 9999,
+        "$description": "",
+        "$variable_metadata": {
+          "name": "_Radii/9999",
+          "figmaId": "VariableID:23:136",
+          "modes": {
+            "mode_1": 9999
+          }
+        }
+      }
+    },
+    "$rounded": {
+      "none": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.0}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/none",
+          "figmaId": "VariableID:23:137",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.0}"
+          }
+        }
+      },
+      "rounded-25": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.2}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-25",
+          "figmaId": "VariableID:23:208",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.2}"
+          }
+        }
+      },
+      "rounded-50": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.4}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-50",
+          "figmaId": "VariableID:23:138",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.4}"
+          }
+        }
+      },
+      "rounded-75": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.6}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-75",
+          "figmaId": "VariableID:63:378",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.6}"
+          }
+        }
+      },
+      "rounded-100": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.8}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-100",
+          "figmaId": "VariableID:23:139",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.8}"
+          }
+        }
+      },
+      "rounded-150": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.12}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-150",
+          "figmaId": "VariableID:23:140",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.12}"
+          }
+        }
+      },
+      "rounded-200": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.16}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-200",
+          "figmaId": "VariableID:23:141",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.16}"
+          }
+        }
+      },
+      "rounded-250": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.20}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-250",
+          "figmaId": "VariableID:6034:3611",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.20}"
+          }
+        }
+      },
+      "rounded-300": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.24}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-300",
+          "figmaId": "VariableID:23:142",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.24}"
+          }
+        }
+      },
+      "rounded-400": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.32}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-400",
+          "figmaId": "VariableID:6003:1047",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.32}"
+          }
+        }
+      },
+      "rounded-600": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.48}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-600",
+          "figmaId": "VariableID:23:143",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.48}"
+          }
+        }
+      },
+      "rounded-pill": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.100}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-pill",
+          "figmaId": "VariableID:23:144",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.100}"
+          }
+        }
+      },
+      "rounded-full": {
+        "$type": "number",
+        "$value": "{@border_radius.$_radii.9999}",
+        "$description": "",
+        "$variable_metadata": {
+          "name": "Rounded/rounded-full",
+          "figmaId": "VariableID:23:145",
+          "modes": {
+            "mode_1": "{@border_radius.$_radii.9999}"
+          }
+        }
+      }
+    }
+  }
+}

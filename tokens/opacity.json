@@ -1,0 +1,146 @@
+{
+  "@opacity": {
+    "0": {
+      "$type": "number",
+      "$value": 0,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "0",
+        "figmaId": "VariableID:30:64",
+        "modes": {
+          "mode_1": 0
+        }
+      }
+    },
+    "10": {
+      "$type": "number",
+      "$value": 10,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "10",
+        "figmaId": "VariableID:30:66",
+        "modes": {
+          "mode_1": 10
+        }
+      }
+    },
+    "20": {
+      "$type": "number",
+      "$value": 20,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "20",
+        "figmaId": "VariableID:30:62",
+        "modes": {
+          "mode_1": 20
+        }
+      }
+    },
+    "30": {
+      "$type": "number",
+      "$value": 30,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "30",
+        "figmaId": "VariableID:30:67",
+        "modes": {
+          "mode_1": 30
+        }
+      }
+    },
+    "40": {
+      "$type": "number",
+      "$value": 40,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "40",
+        "figmaId": "VariableID:30:68",
+        "modes": {
+          "mode_1": 40
+        }
+      }
+    },
+    "50": {
+      "$type": "number",
+      "$value": 50,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "50",
+        "figmaId": "VariableID:30:69",
+        "modes": {
+          "mode_1": 50
+        }
+      }
+    },
+    "60": {
+      "$type": "number",
+      "$value": 60,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "60",
+        "figmaId": "VariableID:30:70",
+        "modes": {
+          "mode_1": 60
+        }
+      }
+    },
+    "70": {
+      "$type": "number",
+      "$value": 70,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "70",
+        "figmaId": "VariableID:30:63",
+        "modes": {
+          "mode_1": 70
+        }
+      }
+    },
+    "80": {
+      "$type": "number",
+      "$value": 80,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "80",
+        "figmaId": "VariableID:30:65",
+        "modes": {
+          "mode_1": 80
+        }
+      }
+    },
+    "90": {
+      "$type": "number",
+      "$value": 90,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "90",
+        "figmaId": "VariableID:30:71",
+        "modes": {
+          "mode_1": 90
+        }
+      }
+    },
+    "100": {
+      "$type": "number",
+      "$value": 100,
+      "$description": "",
+      "$variable_metadata": {
+        "name": "100",
+        "figmaId": "VariableID:30:72",
+        "modes": {
+          "mode_1": 100
+        }
+      }
+    },
+    "$collection_metadata": {
+      "name": "Opacity",
+      "figmaId": "VariableCollectionId:30:35",
+      "modes": [
+        {
+          "key": "mode_1",
+          "name": "Mode 1"
+        }
+      ]
+    }
+  }
+}
