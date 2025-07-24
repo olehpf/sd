@@ -1,18 +1,5 @@
 import StyleDictionary from 'style-dictionary';
 
-// Custom transform to handle Figma multi-mode tokens
-StyleDictionary.registerTransform({
-  name: 'figma/multimode',
-  type: 'value',
-  transitive: true,
-  filter: (token) => {
-    return token.$variable_metadata && token.$variable_metadata.modes;
-  },
-  transform: (token) => {
-    return token.$value;
-  }
-});
-
 // Custom format to output all mode variations with clean naming for CSS
 StyleDictionary.registerFormat({
   name: 'css/variables-multimode',
